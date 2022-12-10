@@ -14,7 +14,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/m-samridha/"><img width="24px" alt="Ko-fi" title="Linked In" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="samridha.umd.edu"><img width="32px" alt="Mail ID" title="Mail ID" src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png"/></a>
+  <a href="samridha@umd.edu"><img width="32px" alt="Mail ID" title="Mail ID" src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png"/></a>
 </p>
 
 
