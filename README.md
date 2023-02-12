@@ -44,8 +44,7 @@ CyberSecurity Projects
   CTF
 </h2>
 <p align="center">
-    <a href="https://github.com/msam13/HackTheBox"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=msam13&repo=HackTheBox&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="HackTheBox"></a>
-    <a href="https://github.com/msam13/Piko-CTF"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=msam13&repo=Piko-CTF&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Piko-CTF"></a>
+    <a href="https://github.com/msam13/CTFs"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=msam13&repo=CTFs&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="CTFs"></a>
 </p>
 
 
