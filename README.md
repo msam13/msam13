@@ -7,7 +7,7 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/m-samridha/"><img width="24px" alt="Ko-fi" title="Linked In" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.youtube.com/@msamridha1604"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/msamridha/?hl=en" alt="Instagram"><img width="24px" src="https://i.imgur.com/M6yBwxS.png"/></a>
