@@ -14,3 +14,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="msamridha16@gmail.com"><img width="32px" alt="Mail ID" title="Mail ID" src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png"/></a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=msamridha&label=Profile%20views&color=orange&style=flat" alt="msamridha" />
+</p>
